@@ -1,0 +1,1428 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Update",
+				"Update"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"it",
+				"it"
+			],
+			[
+				"PdfBook",
+				"PdfBook"
+			],
+			[
+				"url",
+				"url"
+			],
+			[
+				"done",
+				"done"
+			],
+			[
+				"PUB",
+				"PUBLISHED_ASSETS"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"BBF2_FILE",
+				"BBF2_FILE"
+			],
+			[
+				"ebook",
+				"ebook"
+			],
+			[
+				"key",
+				"key"
+			],
+			[
+				"do",
+				"do"
+			],
+			[
+				"bbf",
+				"bbf2"
+			],
+			[
+				"zip",
+				"zip	zip(enums) { |row| .. }"
+			],
+			[
+				"Bb",
+				"Bbf2UpgradeFromBookifyTask"
+			],
+			[
+				"JOB_",
+				"JOB_TYPE_EPUB"
+			],
+			[
+				"NULL",
+				"NULL"
+			],
+			[
+				"fixes",
+				"fixes"
+			],
+			[
+				"rec",
+				"recover_truncated_image_id"
+			],
+			[
+				"find_by_",
+				"find_by_guts_id"
+			],
+			[
+				"regene",
+				"regenerate_bbf"
+			],
+			[
+				"find_by",
+				"find_by_guts_id"
+			],
+			[
+				"fork",
+				"fork"
+			],
+			[
+				"project",
+				"project"
+			],
+			[
+				"path",
+				"path"
+			],
+			[
+				"conversion_warnings",
+				"conversion_warnings"
+			],
+			[
+				"BBF",
+				"BBF"
+			],
+			[
+				"json",
+				"json"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "gc.scala",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"git blame",
+				"Git: Blame"
+			],
+			[
+				"map re",
+				"SFTP: Map to Remote…"
+			],
+			[
+				"sftp",
+				"SFTP: Map to Remote…"
+			],
+			[
+				"chan",
+				"Git: Change Branch"
+			],
+			[
+				"cha",
+				"Git: Change Branch"
+			],
+			[
+				"change",
+				"Git: Change Branch"
+			],
+			[
+				"chang",
+				"Git: Change Branch"
+			],
+			[
+				"change ",
+				"Git: Change Branch"
+			],
+			[
+				"change br",
+				"Git: Change Branch"
+			],
+			[
+				"git chan",
+				"Git: Change Branch"
+			],
+			[
+				"change b",
+				"Git: Change Branch"
+			],
+			[
+				"git ch",
+				"Git: Change Branch"
+			],
+			[
+				"git blam",
+				"Git: Blame"
+			],
+			[
+				"git bla",
+				"Git: Blame"
+			],
+			[
+				"git chec",
+				"Git: Change Branch"
+			],
+			[
+				"change bra",
+				"Git: Change Branch"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Enable Load-Save Linting"
+			],
+			[
+				"sublim",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"git staut",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"views",
+				"Simple Rails Navigator: List views"
+			],
+			[
+				"rails view",
+				"Simple Rails Navigator: List views"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"git add cu",
+				"Git: Add Current File"
+			],
+			[
+				"rails",
+				"Simple Rails Navigator: List views"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"list mod",
+				"Simple Rails Navigator: List models"
+			],
+			[
+				"push cu",
+				"Git: Push Current Branch"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"git bran",
+				"Git: Change Branch"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"git show",
+				"Git: Show Current File"
+			],
+			[
+				"diff",
+				"Git: Diff All"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"add cu",
+				"Git: Add Current File"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"git clear",
+				"Git: Clear Annotation"
+			],
+			[
+				"git commit",
+				"Git: Commit Selected Hunk"
+			],
+			[
+				"git add ",
+				"Git: Add Selected Hunk"
+			],
+			[
+				"git ann",
+				"Git: Annotate"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"git add se",
+				"Git: Add Selected Hunk"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git stage",
+				"Git: Diff Staged"
+			],
+			[
+				"disco",
+				"Package Control: Discover Packages"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Discover Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Git: Log All"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"convert to sp",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 143.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/vprasad/git/blurby/config/artifact.rb",
+		"/Users/vprasad/git/bud/config/deploy/webteam.rb",
+		"/Users/vprasad/git/blurby/lib/tasks/databases.rake",
+		"/Users/vprasad/git/blurby/config/deploy.rb",
+		"/Users/vprasad/git/blurby/script/generate_apache_configs",
+		"/Users/vprasad/git/blurby/config/apache/source/api.conf.erb",
+		"/Users/vprasad/git/blurby/config/apache/source/blurby.common.erb",
+		"/Users/vprasad/git/blurby/app/models/api/bbf2_project.rb",
+		"/Users/vprasad/git/blurby/app/models/bbf2_convert_to_ebook_task.rb",
+		"/Users/vprasad/git/blurby/config/hardclone.rb",
+		"/Users/vprasad/git/blurby/lib/tasks/jammit.rake",
+		"/Users/vprasad/git/blurby/app/models/bbf2_upgrade_finish.rb",
+		"/Users/vprasad/git/blurby/app/models/book.rb",
+		"/Users/vprasad/git/blurby/content/text/en/ebook_conversion/publish_error.yml",
+		"/Users/vprasad/git/blurby/content/text/en/ebook_conversion/publish_done.yml",
+		"/Users/vprasad/git/blurby/content/text/en/ebook_conversion/conversion_error.yml",
+		"/Users/vprasad/git/blurby/app/models/pdf_book/pdf_book.rb",
+		"/Users/vprasad/git/blurby/content/text/en/ebook_conversion/conversion_done.yml",
+		"/Users/vprasad/git/blurby/app/models/mailer/ebook_conversion.rb",
+		"/Users/vprasad/git/blurby/app/views/mailer/ebook_conversion/conversion_done.html.erb",
+		"/Users/vprasad/git/blurby/app/models/api_product.rb",
+		"/Users/vprasad/git/blurby/app/models/api_key.rb",
+		"/Users/vprasad/git/blurby/sftp-config.json",
+		"/Users/vprasad/git/blurby/app/models/bbf2_import_from_indesign_task.rb",
+		"/Users/vprasad/git/blurby/app/controllers/api/bbf2_projects_controller.rb",
+		"/Users/vprasad/git/blurby/app/controllers/api/pdf_books_controller.rb",
+		"/Users/vprasad/git/blurby/lib/redis_cache.rb",
+		"/Users/vprasad/git/blurby/app/models/ebook/apple/epub_job.rb",
+		"/Users/vprasad/git/blurby/app/models/ebook/ebook.rb",
+		"/Users/vprasad/git/blurby/app/controllers/ebook/ebooks_controller.rb",
+		"/Users/vprasad/git/blurby/app/models/ebook_line_item.rb",
+		"/Users/vprasad/git/blurby/app/models/api/asset_helper.rb",
+		"/Users/vprasad/git/blurby/app/models/photo_import.rb",
+		"/Users/vprasad/git/blurby/app/controllers/api/photo_imports_controller.rb",
+		"/Users/vprasad/git/blurby/app/models/admin_global_setting.rb",
+		"/Users/vprasad/git/blurby/app/models/api/storage_s3.rb",
+		"/Users/vprasad/git/blurby/app/models/api/storage.rb",
+		"/Users/vprasad/git/blurby/app/models/api/photo.rb",
+		"/Users/vprasad/git/blurby/app/models/bbf2_upgrade_from_booksmart_image_processing_task.rb",
+		"/Users/vprasad/git/blurby/lib/api.rb",
+		"/Users/vprasad/git/blurby/app/views/admin/support/bbf2_projects/show.html.erb",
+		"/Users/vprasad/git/blurby/lib/paginate_collection.rb",
+		"/Users/vprasad/git/blurby/app/controllers/bookstore_controller.rb",
+		"/Users/vprasad/git/blurby/lib/method_cache.rb",
+		"/Users/vprasad/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/vprasad/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/vprasad/git/blurby/spec/models/bbf2_upgrade_from_booksmart_image_processing_task_spec.rb",
+		"/Users/vprasad/git/blurby/config/routes_api.rb",
+		"/Users/vprasad/git/blurby/app/service/bookserve/preflight/preflight_status_response.rb",
+		"/Users/vprasad/git/blurby/app/models/book_detail.rb",
+		"/Users/vprasad/git/blurby/content/no_translate/fr_CA/seo_information/bookstore.yml",
+		"/Users/vprasad/git/blurby/app/backend/bbf/task/setup.rb",
+		"/Users/vprasad/git/blurby/app/models/bbf2_upgrade_from_booksmart_distributed_task.rb",
+		"/Users/vprasad/git/blurby/app/models/bbf2_upgrade_from_bookify_task.rb",
+		"/Users/vprasad/git/blurby/app/helpers/mailer/order_email_helper.rb",
+		"/Users/vprasad/git/blurby/config/initializers/action_mailer_queue.rb",
+		"/Users/vprasad/git/blurby/app/models/queued_mail.rb",
+		"/Users/vprasad/git/blurby/script/email_worker.rb",
+		"/Users/vprasad/git/blurby/app/views/mailer/ebook_conversion/conversion_error.html.erb",
+		"/Users/vprasad/git/blurby/app/views/mailer/ebook_conversion/publish_done.html.erb",
+		"/Users/vprasad/git/blurby/app/views/mailer/ebook_conversion/publish_error.html.erb",
+		"/Users/vprasad/git/blurby/app/views/mailer/pdf_mailer/fail_email.erb",
+		"/Users/vprasad/git/blurby/content/text/en/pdf_mailer/fail_email.yml",
+		"/Users/vprasad/git/blurby/spec/models/api/photo_s3_spec.rb",
+		"/Users/vprasad/git/blurby/app/models/bbf2_job.rb",
+		"/Users/vprasad/git/blurby/app/controllers/my/store_controller.rb",
+		"/Users/vprasad/git/blurby/app/models/user.rb",
+		"/Users/vprasad/git/blurby/app/backend/bbf/task/book_maker.rb",
+		"/Users/vprasad/git/blurby/app/backend/bbf/task/write_bbf.rb",
+		"/Users/vprasad/git/blurby/lib/uploaders/media_uploader.pl.erb",
+		"/Users/vprasad/git/blurby/vendor/gems_old/datanoise-actionwebservice-2.3.2/examples/metaWeblog/apis/blogger_api.rb",
+		"/Users/vprasad/git/blurby/spec/models/api/photo_spec.rb",
+		"/Users/vprasad/git/blurby/app/models/api/metadata.rb",
+		"/Users/vprasad/git/mini_exiftool/lib/mini_exiftool.rb",
+		"/Users/vprasad/git/blurby/app/controllers/api/video_controller.rb",
+		"/Users/vprasad/git/blurby/app/models/routing/printer_output.rb",
+		"/Users/vprasad/git/blurby/app/models/api/audio.rb",
+		"/Users/vprasad/git/blurby/app/models/api/video.rb",
+		"/Users/vprasad/git/blurby/script/river_ruby_worker.rb",
+		"/Users/vprasad/git/blurby/test/api/video.rb",
+		"/Users/vprasad/git/blurby/app/controllers/api/audio_controller.rb",
+		"/Users/vprasad/git/blurby/test/api/audio.rb",
+		"/Users/vprasad/git/blurby/app/models/api/pdf_book.rb",
+		"/Users/vprasad/git/blurby/spec/models/ebook/task/ibookstore_asset_submission_spec.rb",
+		"/Users/vprasad/git/blurby/app/models/api/storage_fs.rb",
+		"/Users/vprasad/git/blurby/app/models/bbf2_update_metadata_task.rb",
+		"/Users/vprasad/git/blurby/app/models/ebook/task/ibookstore_asset_submission.rb",
+		"/Users/vprasad/git/blurby/spec/models/api/storage_spec.rb",
+		"/Users/vprasad/git/blurby/app/models/product.rb",
+		"/Users/vprasad/git/blurby/app/models/api/project.rb",
+		"/Users/vprasad/git/blurby/lib/epub_utils.rb",
+		"/Users/vprasad/git/blurby/app/models/ebook/task/insert_isbn.rb",
+		"/Users/vprasad/git/blurby/app/models/ebook/task/cleanup_ibookstore_submission.rb",
+		"/Users/vprasad/git/blurby/app/controllers/admin/support/bbf2_projects_controller.rb",
+		"/Users/vprasad/git/blurby/lib/time_limited_url.rb",
+		"/Users/vprasad/git/blurby/app/controllers/pdf_book_controller.rb",
+		"/Users/vprasad/git/blurby/app/models/ebook/apple/distribution_job.rb",
+		"/Users/vprasad/git/blurby/spec/controllers/ebook/ebooks_controller_spec.rb",
+		"/Users/vprasad/git/blurby/spec/models/ebook/ebook_spec.rb",
+		"/Users/vprasad/git/blurby/app/controllers/my/book_controller.rb",
+		"/Users/vprasad/git/blurby/config/routes.rb",
+		"/Users/vprasad/git/blurby/spec/lib/time_limited_url_spec.rb",
+		"/Users/vprasad/git/blurby/lib/hostnames.rb",
+		"/Users/vprasad/git/blurby/spec/controllers/api/ebooks_controller_spec.rb",
+		"/Users/vprasad/git/blurby/spec/lib/isbn_provider_spec.rb",
+		"/Users/vprasad/git/blurby/content/text/en_GB/bookstore/email_it.yml",
+		"/Users/vprasad/git/blurby/content/text/en/bookstore/email_it.yml",
+		"/Users/vprasad/git/blurby/content/text/en/blurb_mobile/email_it.yml",
+		"/Users/vprasad/git/blurby/content/text/de/blurb_mobile/email_it.yml",
+		"/Users/vprasad/git/blurby/app/models/ebook/task/fetch_epub.rb",
+		"/Users/vprasad/git/blurby/app/controllers/api/ebooks_controller.rb",
+		"/Users/vprasad/git/blurby/db/migrate/20120925083900_add_update_needed_to_bbf2_job.rb",
+		"/Users/vprasad/git/blurby/app/models/bbf2_project.rb",
+		"/Users/vprasad/git/blurby/db/migrate/20120924141200_add_index_to_bbf2_projects.rb",
+		"/Users/vprasad/git/blurby/db/migrate/20110301200408_add_stories_index_on_storage_id_and_featured.rb",
+		"/Users/vprasad/git/blurby/app/controllers/application_controller.rb",
+		"/Users/vprasad/git/blurby/config/routes_ebook.rb",
+		"/Users/vprasad/git/blurby/vendor/gems_old/cucumber-0.3.98/lib/cucumber/filter.rb",
+		"/Users/vprasad/git/blurby/app/models/api_user.rb",
+		"/Users/vprasad/git/blurby/app/controllers/api/ibookstore_distribution_controller.rb",
+		"/Users/vprasad/git/blurby/app/models/epub_update_metadata.rb",
+		"/Users/vprasad/git/blurby/spec/models/ebook/apple/opf_spec.rb",
+		"/Users/vprasad/git/blurby/app/models/ebook/apple/opf.rb",
+		"/Users/vprasad/git/blurby/app/models/ebook/task/add_start_location.rb",
+		"/Users/vprasad/git/blurby/config/initializers/zipfile.rb",
+		"/Users/vprasad/git/blurby/app/models/ebook/apple/ncx.rb",
+		"/Users/vprasad/git/blurby/app/models/ebook/task/generate_isbn.rb",
+		"/Users/vprasad/git/blurby/app/models/api/bookify_project.rb"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"MARKETING",
+			"self.internal",
+			"internal_type",
+			"symlink",
+			"rollback:code",
+			"on_rollback",
+			"revision",
+			"rollback",
+			"artifact",
+			"rollback",
+			"copy_repository_cache",
+			"artifact",
+			"rollback",
+			"migrate",
+			"db:migrate",
+			"record_release_commit",
+			"rollback",
+			"record_release_commit",
+			"finalize_update",
+			"update_code",
+			"long_deploy",
+			"enfor",
+			"newrelic",
+			"restart",
+			"update_repo",
+			"added_to_cart",
+			"convert!",
+			"queue!",
+			"apple_epub_booksmart",
+			"conversion",
+			"StartConversion",
+			"AdminGlobalSetting",
+			"metaclass",
+			"class << self",
+			"alias",
+			"generate_sizes",
+			"get_preflight",
+			"pdf_book",
+			"paginate_with_scope",
+			"find_public",
+			"self.find_public",
+			"find_public",
+			"cached",
+			"find_created_with_instagram",
+			"created_with_flickr",
+			"find_created_with_instagram",
+			"view_url",
+			"created_with_instagram",
+			"created_with_ins",
+			"created_with",
+			"created_from",
+			"private",
+			"ebook.private",
+			"workerTemp",
+			"info",
+			"ebook.title",
+			"QueuedMail.enqueue!",
+			"gsub",
+			"fail_email",
+			"fail_email.yml",
+			"class User ",
+			"class User",
+			"self.books",
+			"ACL",
+			"@file_with",
+			"book_or_ebook",
+			"bbf2_project_json",
+			"purchased",
+			"save_rotated",
+			"akaimage",
+			"DIG",
+			"fix_rmagick",
+			"raise",
+			"Phil Harvey",
+			"Starting",
+			"MiniExifTool",
+			"update_rotated",
+			"miniexiftool",
+			"runner",
+			"runnable",
+			"Video.from_upload",
+			"Api::Audio.from_upload",
+			"uploaded_audio",
+			"help_get_assets_lite",
+			"VALUES",
+			".path",
+			"should call",
+			"task_arguments",
+			"Dir.tmpname",
+			"Dir.temp",
+			"epub_url",
+			"bbf2_workflow",
+			"cover_image",
+			"when",
+			"cover_image",
+			"domain",
+			"www",
+			"download_url",
+			"detail",
+			"detail_url",
+			"detail",
+			"pdf",
+			"ebooks",
+			"pdf_book",
+			"timestamp_signa",
+			"assets_lite",
+			"Mailer",
+			"from",
+			"iPod Touch",
+			"user_token",
+			"copy_images",
+			"ipad",
+			"add_column",
+			"ebook.pages",
+			"epubutils",
+			"sleep",
+			"find_locale",
+			"editor_url",
+			"limited_download_url",
+			"ebook.source",
+			"redirect_to",
+			"ebooks",
+			"authenticate",
+			"authenticate_allowing_guest",
+			"before_filter",
+			"token",
+			"rspcode",
+			"error"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"epub"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "gc.scala",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Scala/Scala.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"output.git":
+	{
+		"height": 142.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"hard",
+				"config/hardclone.rb"
+			],
+			[
+				"config/depl",
+				"config/deploy.rb"
+			],
+			[
+				"order.rb",
+				"app/models/order.rb"
+			],
+			[
+				"artifact",
+				"config/artifact.rb"
+			],
+			[
+				"artifa",
+				"config/artifact.rb"
+			],
+			[
+				"deploy.rb",
+				"config/deploy.rb"
+			],
+			[
+				"config/dep",
+				"config/deploy.rb"
+			],
+			[
+				"generate_apa",
+				"script/generate_apache_configs"
+			],
+			[
+				"api.conf",
+				"config/apache/source/api.conf.erb"
+			],
+			[
+				"blurby.comm",
+				"config/apache/source/blurby.common.erb"
+			],
+			[
+				"bbf2conver",
+				"app/models/bbf2_convert_to_ebook_task.rb"
+			],
+			[
+				"api/bbf2",
+				"app/models/api/bbf2_project.rb"
+			],
+			[
+				"config/hardclone",
+				"config/hardclone.rb"
+			],
+			[
+				"pdf_book",
+				"app/models/pdf_book/pdf_book.rb"
+			],
+			[
+				"bbf2upgrade",
+				"app/models/bbf2_upgrade_finish.rb"
+			],
+			[
+				"app/models/book.rb",
+				"app/models/book.rb"
+			],
+			[
+				"publish_error",
+				"content/text/en/ebook_conversion/publish_error.yml"
+			],
+			[
+				"publish_done",
+				"content/text/en/ebook_conversion/publish_done.yml"
+			],
+			[
+				"conversion_error",
+				"content/text/en/ebook_conversion/conversion_error.yml"
+			],
+			[
+				"conversion_done",
+				"content/text/en/ebook_conversion/conversion_done.yml"
+			],
+			[
+				"mailer/ebook",
+				"app/models/mailer/ebook_conversion.rb"
+			],
+			[
+				"sftp",
+				"sftp-config.json"
+			],
+			[
+				"api_key",
+				"app/models/api_key.rb"
+			],
+			[
+				"api_pro",
+				"app/models/api_product.rb"
+			],
+			[
+				"from_indes",
+				"app/models/bbf2_import_from_indesign_task.rb"
+			],
+			[
+				"pdf_books",
+				"app/controllers/api/pdf_books_controller.rb"
+			],
+			[
+				"book.rb",
+				"app/models/book.rb"
+			],
+			[
+				"redis_cac",
+				"lib/redis_cache.rb"
+			],
+			[
+				"ebook/ebook",
+				"app/models/ebook/ebook.rb"
+			],
+			[
+				"api/asset",
+				"app/models/api/asset_helper.rb"
+			],
+			[
+				"photo_import",
+				"app/models/photo_import.rb"
+			],
+			[
+				"api/photo_import",
+				"app/controllers/api/photo_imports_controller.rb"
+			],
+			[
+				"photoimport",
+				"app/controllers/api/photo_imports_controller.rb"
+			],
+			[
+				"admin_glo",
+				"app/models/admin_global_setting.rb"
+			],
+			[
+				"redis_ca",
+				"lib/redis_cache.rb"
+			],
+			[
+				"api/storage_s3",
+				"app/models/api/storage_s3.rb"
+			],
+			[
+				"api/storage.rb",
+				"app/models/api/storage.rb"
+			],
+			[
+				"api/photo",
+				"app/models/api/photo.rb"
+			],
+			[
+				"image_proce",
+				"app/models/bbf2_upgrade_from_booksmart_image_processing_task.rb"
+			],
+			[
+				"image_proces",
+				"spec/models/bbf2_upgrade_from_booksmart_image_processing_task_spec.rb"
+			],
+			[
+				"lib/api",
+				"lib/api.rb"
+			],
+			[
+				"bookserve/preflight",
+				"app/service/bookserve/preflight/preflight_status_response.rb"
+			],
+			[
+				"routes_ap",
+				"config/routes_api.rb"
+			],
+			[
+				"api/pdf_books",
+				"app/controllers/api/pdf_books_controller.rb"
+			],
+			[
+				"method_cache",
+				"lib/method_cache.rb"
+			],
+			[
+				"bookstore_contr",
+				"app/controllers/bookstore_controller.rb"
+			],
+			[
+				"seo_information/",
+				"content/no_translate/fr_CA/seo_information/bookstore.yml"
+			],
+			[
+				"admin/support/bbf2",
+				"app/views/admin/support/bbf2_projects/show.html.erb"
+			],
+			[
+				"book_detail",
+				"app/models/book_detail.rb"
+			],
+			[
+				"ebook/ebok",
+				"app/models/ebook/ebook.rb"
+			],
+			[
+				"upgrade_from",
+				"app/models/bbf2_upgrade_from_booksmart_distributed_task.rb"
+			],
+			[
+				"bbf2_from",
+				"app/models/bbf2_upgrade_from_bookify_task.rb"
+			],
+			[
+				"queued",
+				"app/models/queued_mail.rb"
+			],
+			[
+				"storage_s3",
+				"app/models/api/storage_s3.rb"
+			],
+			[
+				"order_emai",
+				"app/helpers/mailer/order_email_helper.rb"
+			],
+			[
+				"queued_ma",
+				"app/models/queued_mail.rb"
+			],
+			[
+				"email_work",
+				"script/email_worker.rb"
+			],
+			[
+				"fail_ema",
+				"app/views/mailer/pdf_mailer/fail_email.erb"
+			],
+			[
+				"publish_error.y",
+				"content/text/en/ebook_conversion/publish_error.yml"
+			],
+			[
+				"publish_done.ht",
+				"app/views/mailer/ebook_conversion/publish_done.html.erb"
+			],
+			[
+				"publish_done.",
+				"content/text/en/ebook_conversion/publish_done.yml"
+			],
+			[
+				"conversion_err",
+				"app/views/mailer/ebook_conversion/conversion_error.html.erb"
+			],
+			[
+				"fail_email.yml",
+				"content/text/en/pdf_mailer/fail_email.yml"
+			],
+			[
+				"conversion_done.html",
+				"app/views/mailer/ebook_conversion/conversion_done.html.erb"
+			],
+			[
+				"conversion_done.yml",
+				"content/text/en/ebook_conversion/conversion_done.yml"
+			],
+			[
+				"media_uplo",
+				"lib/uploaders/media_uploader.pl.erb"
+			],
+			[
+				"write_",
+				"app/backend/bbf/task/write_bbf.rb"
+			],
+			[
+				"bbf/task/book",
+				"app/backend/bbf/task/book_maker.rb"
+			],
+			[
+				"user.",
+				"app/models/user.rb"
+			],
+			[
+				"my/store",
+				"app/controllers/my/store_controller.rb"
+			],
+			[
+				"bbf2",
+				"app/models/bbf2_job.rb"
+			],
+			[
+				"bbf2_projects_",
+				"app/controllers/api/bbf2_projects_controller.rb"
+			],
+			[
+				"api/photo.rb",
+				"app/models/api/photo.rb"
+			],
+			[
+				"photo_s3",
+				"spec/models/api/photo_s3_spec.rb"
+			],
+			[
+				"photo_spec",
+				"spec/models/api/photo_spec.rb"
+			],
+			[
+				"metad",
+				"app/models/api/metadata.rb"
+			],
+			[
+				"convert_to_ebook",
+				"app/models/bbf2_convert_to_ebook_task.rb"
+			],
+			[
+				"ebook/ebook.rb",
+				"app/models/ebook/ebook.rb"
+			],
+			[
+				"ebooks_contr",
+				"app/controllers/ebook/ebooks_controller.rb"
+			],
+			[
+				"blurby.com",
+				"config/apache/source/blurby.common.erb"
+			],
+			[
+				"river_ruby",
+				"script/river_ruby_worker.rb"
+			],
+			[
+				"image_process",
+				"app/models/bbf2_upgrade_from_booksmart_image_processing_task.rb"
+			],
+			[
+				"video_contr",
+				"app/controllers/api/video_controller.rb"
+			],
+			[
+				"routing/print",
+				"app/models/routing/printer_output.rb"
+			],
+			[
+				"api/video",
+				"app/models/api/video.rb"
+			],
+			[
+				"api/vide",
+				"test/api/video.rb"
+			],
+			[
+				"api/aud",
+				"app/models/api/audio.rb"
+			],
+			[
+				"views/mailer/ebook",
+				"app/views/mailer/ebook_conversion/publish_done.html.erb"
+			],
+			[
+				"bbf2_convert",
+				"app/models/bbf2_convert_to_ebook_task.rb"
+			],
+			[
+				"api/audio",
+				"app/models/api/audio.rb"
+			],
+			[
+				"ebook/ebooks_",
+				"app/controllers/ebook/ebooks_controller.rb"
+			],
+			[
+				"api/pdf_",
+				"app/models/api/pdf_book.rb"
+			],
+			[
+				"api/metadata",
+				"app/models/api/metadata.rb"
+			],
+			[
+				"api/proj",
+				"app/models/api/project.rb"
+			],
+			[
+				"product.",
+				"app/models/product.rb"
+			],
+			[
+				"api.rb",
+				"lib/api.rb"
+			],
+			[
+				"api/stora",
+				"app/models/api/storage.rb"
+			],
+			[
+				"storage_spe",
+				"spec/models/api/storage_spec.rb"
+			],
+			[
+				"epub",
+				"lib/epub_utils.rb"
+			],
+			[
+				"iboostore_asset",
+				"spec/models/ebook/task/ibookstore_asset_submission_spec.rb"
+			],
+			[
+				"storage_fs",
+				"app/models/api/storage_fs.rb"
+			],
+			[
+				"bbf2_update",
+				"app/models/bbf2_update_metadata_task.rb"
+			],
+			[
+				"ibooks",
+				"app/models/ebook/task/ibookstore_asset_submission.rb"
+			],
+			[
+				"ibookstore_asset",
+				"spec/models/ebook/task/ibookstore_asset_submission_spec.rb"
+			],
+			[
+				"storage.rb",
+				"app/models/api/storage.rb"
+			],
+			[
+				"insert",
+				"app/models/ebook/task/insert_isbn.rb"
+			],
+			[
+				"epubu",
+				"lib/epub_utils.rb"
+			],
+			[
+				"distribution_job",
+				"app/models/ebook/apple/distribution_job.rb"
+			],
+			[
+				"cleanup",
+				"app/models/ebook/task/cleanup_ibookstore_submission.rb"
+			],
+			[
+				"ibookstore",
+				"app/models/ebook/task/ibookstore_asset_submission.rb"
+			],
+			[
+				"update_meta",
+				"app/models/bbf2_update_metadata_task.rb"
+			],
+			[
+				"api/pdf_book",
+				"app/models/api/pdf_book.rb"
+			],
+			[
+				"ebook/ebook_spec",
+				"spec/models/ebook/ebook_spec.rb"
+			],
+			[
+				"lib/host",
+				"lib/hostnames.rb"
+			],
+			[
+				"ebooks_con",
+				"spec/controllers/ebook/ebooks_controller_spec.rb"
+			],
+			[
+				"ebooks_controller_spec",
+				"spec/controllers/api/ebooks_controller_spec.rb"
+			],
+			[
+				"my/book",
+				"app/controllers/my/book_controller.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"product.rb",
+				"app/models/product.rb"
+			],
+			[
+				"routes.rb",
+				"config/routes.rb"
+			],
+			[
+				"from_bookify",
+				"app/models/bbf2_upgrade_from_bookify_task.rb"
+			],
+			[
+				"time_limited_url",
+				"spec/lib/time_limited_url_spec.rb"
+			],
+			[
+				"isbn_provi",
+				"spec/lib/isbn_provider_spec.rb"
+			],
+			[
+				"en_gb/email_it",
+				"content/text/en_GB/bookstore/email_it.yml"
+			],
+			[
+				"email_it.yml",
+				"content/text/en_GB/bookstore/email_it.yml"
+			],
+			[
+				"content/text/en/bookstore/email",
+				"content/text/en/bookstore/email_it.yml"
+			],
+			[
+				"bookstore/email_it",
+				"content/text/en_GB/bookstore/email_it.yml"
+			],
+			[
+				"bookstore/email_it.yml",
+				"content/text/en/bookstore/email_it.yml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 290.0,
+	"status_bar_visible": true
+}
